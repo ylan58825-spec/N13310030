@@ -16,5 +16,13 @@ namespace GUl_Class_N13310030
         {
             InitializeComponent();
         }
+
+        private void btn_ClickMe_Click(object sender, EventArgs e)
+        {
+            if (btn_ClickMe.Text == "按我一下")
+                btn_ClickMe.Text = "我被點過了";
+            else if (btn_ClickMe.Text == "我被點過了")
+                btn_ClickMe.Text = "按我一下";
+        }
     }
 }
