@@ -24,5 +24,17 @@ namespace GUl_Class_N13310030
             else if (btn_ClickMe.Text == "我被點過了")
                 btn_ClickMe.Text = "按我一下";
         }
+
+        private void btn_ChangeLable_Click(object sender, EventArgs e)
+        {
+            lab_CHangeLabel.Text="按鈕被按過了";
+        }
+
+        private void btn_Counter_Click(object sender, EventArgs e)
+        {
+            String count = lab_Counter.Text;
+            int sum = Int32.Parse(count)+1;
+            lab_Counter.Text = sum.ToString();
+        }
     }
 }
