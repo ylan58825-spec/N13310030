@@ -8,3 +8,4 @@ C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Deb
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.exe
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.pdb
+C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.FormBtnBigger.resources

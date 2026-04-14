@@ -34,6 +34,12 @@
             this.btn_ChangeLable = new System.Windows.Forms.Button();
             this.btn_Counter = new System.Windows.Forms.Button();
             this.lab_Counter = new System.Windows.Forms.Label();
+            this.BtnBigger = new System.Windows.Forms.Button();
+            this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -103,12 +109,58 @@
             this.lab_Counter.TabIndex = 4;
             this.lab_Counter.Text = "0";
             // 
+            // BtnBigger
+            // 
+            this.BtnBigger.Font = new System.Drawing.Font("新細明體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.BtnBigger.Location = new System.Drawing.Point(245, 82);
+            this.BtnBigger.Name = "BtnBigger";
+            this.BtnBigger.Size = new System.Drawing.Size(170, 62);
+            this.BtnBigger.TabIndex = 6;
+            this.BtnBigger.Text = "按鈕放大";
+            this.BtnBigger.UseVisualStyleBackColor = true;
+            this.BtnBigger.Click += new System.EventHandler(this.btnBigger_Click);
+            // 
+            // fileSystemWatcher1
+            // 
+            this.fileSystemWatcher1.EnableRaisingEvents = true;
+            this.fileSystemWatcher1.SynchronizingObject = this;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(525, 168);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(147, 22);
+            this.textBox1.TabIndex = 7;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(523, 132);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(33, 12);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "label2";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(525, 212);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(147, 30);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "按我複製至串到Label";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.BtnBigger);
             this.Controls.Add(this.btn_Counter);
             this.Controls.Add(this.lab_Counter);
             this.Controls.Add(this.btn_ChangeLable);
@@ -118,6 +170,8 @@
             this.ForeColor = System.Drawing.Color.Coral;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -131,6 +185,11 @@
         private System.Windows.Forms.Button btn_ChangeLable;
         private System.Windows.Forms.Button btn_Counter;
         private System.Windows.Forms.Label lab_Counter;
+        private System.Windows.Forms.Button BtnBigger;
+        private System.IO.FileSystemWatcher fileSystemWatcher1;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
