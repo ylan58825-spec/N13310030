@@ -36,6 +36,15 @@ namespace GUl_Class_N13310030
             int sum = Int32.Parse(count)+1;
             lab_Counter.Text = sum.ToString();
         }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String count = lab_Counter.Text;
+            int sum = Int32.Parse(count)-1;
+            lab_Counter.Text = sum.ToString();
+
+
+        }
+
 
         private void btnBigger_Click(object sender, EventArgs e)
         {
@@ -51,6 +60,11 @@ namespace GUl_Class_N13310030
         {
             string str = textBox1.Text;
             label2.Text= str;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form2().Show();
         }
     }
 }
