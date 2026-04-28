@@ -42,6 +42,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(111, 22);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -59,6 +60,7 @@
             this.label1.Size = new System.Drawing.Size(21, 20);
             this.label1.TabIndex = 2;
             this.label1.Text = "+";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -79,6 +81,7 @@
             this.label3.Size = new System.Drawing.Size(18, 20);
             this.label3.TabIndex = 4;
             this.label3.Text = "?";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button1
             // 
@@ -104,6 +107,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form2";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

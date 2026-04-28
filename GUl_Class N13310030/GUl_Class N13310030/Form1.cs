@@ -66,5 +66,10 @@ namespace GUl_Class_N13310030
         {
             new Form2().Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new Form3().Show();
+        }
     }
 }
