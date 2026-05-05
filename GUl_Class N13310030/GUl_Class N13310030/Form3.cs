@@ -29,10 +29,12 @@ namespace GUl_Class_N13310030
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double celsius,fahrenheit;
-            int f =  *(9/5) + 32;
-            label3.Text = f.ToString()+f;
+            double celsius, fahrenheit;
 
+            celsius = Convert.ToDouble(textBox1.Text);
+            fahrenheit = celsius * 9.0 / 5.0 + 32;
+
+            label3.Text = fahrenheit.ToString();
 
         }
 

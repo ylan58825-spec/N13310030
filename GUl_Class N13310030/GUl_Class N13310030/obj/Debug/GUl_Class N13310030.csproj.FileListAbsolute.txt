@@ -11,3 +11,16 @@ C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Deb
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.FormBtnBigger.resources
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form2.resources
 C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form3.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\bin\Debug\GUl_Class N13310030.exe.config
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\bin\Debug\GUl_Class N13310030.exe
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\bin\Debug\GUl_Class N13310030.pdb
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form1.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form2.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form3.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.FormBtnBigger.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Properties.Resources.resources
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.exe
+C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.pdb
