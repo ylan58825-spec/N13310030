@@ -71,5 +71,27 @@ namespace GUl_Class_N13310030
         {
             new Form3().Show();
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            int Counter = Int32.Parse(label222.Text.Replace("秒", ""));
+            Counter += 1; //Counter = Counter+1;
+            label222.Text = Counter.ToString() + "秒";
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            label222.Text = "0秒"; ;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+        }
     }
 }
