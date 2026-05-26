@@ -24,3 +24,5 @@ C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N
 C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.exe
 C:\Users\Admin\Desktop\新增資料夾\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.pdb
+C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Formcheckbox.resources
+C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.FormLayout.resources

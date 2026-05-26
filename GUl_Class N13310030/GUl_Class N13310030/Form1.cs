@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace GUl_Class_N13310030
 {
@@ -92,6 +93,17 @@ namespace GUl_Class_N13310030
         private void button6_Click(object sender, EventArgs e)
         {
             timer1.Enabled = false;
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            new Formcheckbox().Show();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+             new FormLayout().Show();
+            
         }
     }
 }
