@@ -105,5 +105,10 @@ namespace GUl_Class_N13310030
              new FormLayout().Show();
             
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            new Form4().Show();
+        }
     }
 }

@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\n13310030\\gul_class n13310030\\gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\formlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\formlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\formcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\formcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\gul_class n13310030\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|c:\\users\\admin\\desktop\\n13310030\\gul_class n13310030\\gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E351F29-3D2D-40E5-AD36-EF900C7F54C3}|GUl_Class N13310030\\GUl_Class N13310030.csproj|solutionrelative:gul_class n13310030\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,102 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form3.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs",
-              "RelativeToolTip": "GUl_Class N13310030\\Form3.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form4.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form4.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form4.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\Form4.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:56:27.097Z",
+              "WhenOpened": "2026-06-14T12:15:15.353Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form4.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form4.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form4.cs",
+              "RelativeToolTip": "GUl_Class N13310030\\Form4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:25:39.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form3.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GUl_Class N13310030\\Form3.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:56:26.77Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form2.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form2.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GUl_Class N13310030\\Form2.cs [\u8A2D\u8A08]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Program.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Program.cs",
+              "RelativeToolTip": "GUl_Class N13310030\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:56:27.208Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2026-06-14T12:21:34.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs",
-              "RelativeToolTip": "GUl_Class N13310030\\Form1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAApwEcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2026-05-05T12:56:27.209Z"
+              "Title": "FormLayout.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormLayout.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\FormLayout.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormLayout.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\FormLayout.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:33.949Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formcheckbox.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Formcheckbox.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Formcheckbox.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Formcheckbox.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\Formcheckbox.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:33.256Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FormBtnBigger.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs",
+              "Title": "FormBtnBigger.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs",
               "RelativeDocumentMoniker": "GUl_Class N13310030\\FormBtnBigger.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs",
-              "RelativeToolTip": "GUl_Class N13310030\\FormBtnBigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2026-05-05T12:56:27.21Z"
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\FormBtnBigger.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:32.601Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FormBtnBigger.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\FormBtnBigger.cs",
-              "ToolTip": "C:\\Users\\MEGAS\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MEGAS\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\FormBtnBigger.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2026-05-05T12:56:27.212Z"
+              "Title": "Form3.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form3.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\Form3.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:30.83Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs",
+              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\Form2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:29.466Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs",
               "RelativeDocumentMoniker": "GUl_Class N13310030\\Form1.cs",
-              "ToolTip": "C:\\Users\\MEGAS\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MEGAS\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2026-05-05T12:56:27.212Z"
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUl_Class N13310030\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:21:27.92Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs",
-              "RelativeDocumentMoniker": "GUl_Class N13310030\\Form2.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\N13310030\\GUl_Class N13310030\\GUl_Class N13310030\\Form2.cs",
-              "RelativeToolTip": "GUl_Class N13310030\\Form2.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwBcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T12:56:27.213Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
