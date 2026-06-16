@@ -42,3 +42,4 @@ C:\Users\Admin\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Deb
 C:\Users\Admin\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.exe
 C:\Users\Admin\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class N13310030.pdb
 C:\Users\Admin\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form4.resources
+C:\Users\MEGAS\Desktop\N13310030\GUl_Class N13310030\GUl_Class N13310030\obj\Debug\GUl_Class_N13310030.Form4.resources

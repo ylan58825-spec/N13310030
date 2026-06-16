@@ -16,6 +16,10 @@ namespace GUl_Class_N13310030
         {
             InitializeComponent();
         }
+        
+
+
+
 
         private void Form4_Load(object sender, EventArgs e)
         {
@@ -28,6 +32,80 @@ namespace GUl_Class_N13310030
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void checkBox5_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            foreach (Control c in Panel2.Controls)
+            {
+                if (c is CheckBox)
+                {
+                    CheckBox temp = (CheckBox)c;
+                    if (temp.Checked==true)
+                    {
+                        MessageBox.Show(temp.Text);
+                    }
+
+                }
+            }
+            foreach (Control c in Panel1.Controls)
+            {
+                if (c is CheckBox)
+                {
+                    CheckBox temp = (CheckBox)c;
+                    if (temp.Checked==true)
+                    {
+                        MessageBox.Show(temp.Text);
+                    }
+
+                }
+            }
+            foreach (Control c in Panel3.Controls)
+            {
+                if (c is CheckBox)
+                {
+                    CheckBox temp = (CheckBox)c;
+                    if (temp.Checked==true)
+                    {
+                        MessageBox.Show(temp.Text);
+                    }
+
+                }
+            }
+            foreach (Control c in Panel4.Controls)
+            {
+                if (c is CheckBox)
+                {
+                    CheckBox temp = (CheckBox)c;
+                    if (temp.Checked==true)
+                    {
+                        MessageBox.Show(temp.Text);
+                    }
+
+                }
+            }
+
+
+
+
+
+
+
+        }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
