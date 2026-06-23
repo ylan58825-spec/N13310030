@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.Security.Cryptography;
 
 namespace GUl_Class_N13310030
 {
@@ -15,6 +17,9 @@ namespace GUl_Class_N13310030
         public Form4()
         {
             InitializeComponent();
+
+            if (!File.Exists("OrderData.csv"))
+                File.WriteAllText("OrderData.csv", "時間,主食,好料,甜點,超跑大拍賣\n", Encoding.UTF8);
         }
         
 
@@ -48,6 +53,15 @@ namespace GUl_Class_N13310030
 
         private void button2_Click(object sender, EventArgs e)
         {
+            DateTime currentDataTime = DateTime.Now;
+            string formattedDateTime = currentDataTime.ToString("yyyy/MM/dd HH:mm:ss");
+
+            string food = "", geatDeals = "", desserts = "", supercars = "";
+
+
+
+
+
             foreach (Control c in Panel2.Controls)
             {
                 if (c is CheckBox)
@@ -55,7 +69,9 @@ namespace GUl_Class_N13310030
                     CheckBox temp = (CheckBox)c;
                     if (temp.Checked==true)
                     {
-                        MessageBox.Show(temp.Text);
+                        //MessageBox.Show(temp.Text);
+                        food+=""+temp.Text;
+
                     }
 
                 }
@@ -67,7 +83,8 @@ namespace GUl_Class_N13310030
                     CheckBox temp = (CheckBox)c;
                     if (temp.Checked==true)
                     {
-                        MessageBox.Show(temp.Text);
+                        //MessageBox.Show(temp.Text);
+                        geatDeals+=""+temp.Text;
                     }
 
                 }
@@ -79,7 +96,8 @@ namespace GUl_Class_N13310030
                     CheckBox temp = (CheckBox)c;
                     if (temp.Checked==true)
                     {
-                        MessageBox.Show(temp.Text);
+                        //MessageBox.Show(temp.Text);
+                        desserts+=""+temp.Text;
                     }
 
                 }
@@ -91,7 +109,8 @@ namespace GUl_Class_N13310030
                     CheckBox temp = (CheckBox)c;
                     if (temp.Checked==true)
                     {
-                        MessageBox.Show(temp.Text);
+                        //MessageBox.Show(temp.Text);
+                        supercars+=""+temp.Text;
                     }
 
                 }
@@ -102,7 +121,8 @@ namespace GUl_Class_N13310030
 
 
 
-
+            File.AppendAllText("OrderData.csv", formattedDateTime+","+food+","+ geatDeals+","+desserts+","+supercars+"\n");
+            MessageBox.Show("點餐完成!製作中請稍等!");
         }
 
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
